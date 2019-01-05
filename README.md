@@ -20,6 +20,11 @@ Run `npx cap copy electron` Run this after making any modifications to your web 
 Run `cd electron`.
 Run `npm run electron:start`.
 
+## Running  IOS
+
+Run `npx cap copy ios` Run this after making any modifications to your web app.
+Run `npx cap open ios`.
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
