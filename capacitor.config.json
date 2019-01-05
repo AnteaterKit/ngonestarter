@@ -1,0 +1,6 @@
+{
+  "appId": "com.capstarter.app",
+  "appName": "capstarter",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
